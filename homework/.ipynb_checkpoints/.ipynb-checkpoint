@@ -20,7 +20,7 @@
     "# HW2\n",
     "# HW3\n",
     "#### 寫個函式計算 Mean Square Error\n",
-    "$ MSE = \\frac{1}{n}\\sum_{i=1}^{n}{(Y_i - \\hat{Y}_i)^2} $"
+    "$ MSE = \\frac{1}{n}\\sum_{i=1}^{n}{(Y_i - \\hat{Y}_i)^2} $\n"
    ]
   },
   {
